@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola! 👋
 
 <!--
 **petite09/petite09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evaduranmeza/) 
 
 ---
+## Hi there! 👋
+
 # 💫 About me:
 👩‍🔬 I am a Molecular Biotechnology Engineer from Universidad de Chile.<br>
 🌱 Currently learning Python and SQL applied to Data Analysis.<br>
